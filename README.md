@@ -15,4 +15,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=kanashi13&icon=4&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
